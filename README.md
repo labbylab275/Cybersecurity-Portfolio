@@ -1,2 +1,2 @@
 # Cybersecurity-Portfolio
-Cybersecurity labs, technical learning notes, and security analyst projects. 
+Cybersecurity labs, security analyst projects, & technical learning notes.

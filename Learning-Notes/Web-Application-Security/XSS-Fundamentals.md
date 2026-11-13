@@ -8,7 +8,7 @@
 
 ## Overview
 
-As part of my cybersecurity learning, I completed TryHackMe's *Intro to Cross-site Scripting* module to better understand XSS vulnerabilities, their different forms, and the security risks associated with executing untrusted JavaScript in web applications.
+I completed TryHackMe's *Intro to Cross-site Scripting* module to better understand XSS vulnerabilities, their different forms, and the security risks associated with executing untrusted JavaScript in web applications.
 
 The module introduced reflected, stored, DOM-based, and blind XSS, along with the role of JavaScript payloads in demonstrating web application vulnerabilities.
 
